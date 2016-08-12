@@ -1,2 +1,2 @@
-git is a good and nice tool;
-git is vary very good;
+git is not a good and nice tool;
+git is not vary very good;
