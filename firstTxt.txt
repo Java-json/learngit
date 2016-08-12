@@ -1,2 +1,3 @@
 git is not a good and nice tool;
 git is not vary very good;
+git is bad tool;
